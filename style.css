@@ -149,3 +149,18 @@ main{
 .ocultar{
     display: none;
 }
+
+/* footer{
+    width: 100%;
+    height: fit-content;
+    display: inline-flexbox;
+}
+
+.copyright{
+    text-align: center;
+    padding: 40px;
+    display: list-item;
+    width: 100%;
+    height: fit-content;
+    display: inline-flexbox;
+} */
